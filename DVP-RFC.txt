@@ -1,0 +1,234 @@
+
+<Title>
+draft-<ietf-wgname-docname>-00.txt
+INFO (REMOVE): 		Version 2.0		J. Touch	 	 Apr. 6, 2010
+INFO (REMOVE): Note that this document is updated periodically with updated boilerplate; this will result in a change to the version date above. The version number will change only when the template mechanism (usage, formats, or styles) changes.
+INFO (REMOVE): 	Lines prefixed with “INFO (REMOVE):”, such as this (also highlighted in RED) are instructions for the author and *MUST* be removed completely prior to publication. 
+INFO (REMOVE): Use ONLY the paragraph styles provided in this sample template, in particular Heading 1 through Heading 9, Normal, Figure, and styles prefixed with “RFC”. Use of other styles or modifying these allowed styles in any way (bold, italics, change font, spacing, numbering, bullets, etc.) will render the output incompatible.
+INFO (REMOVE): Lines surrounded by “<>” (also highlighted in YELLOW) are placeholders and *MUST* be replaced by the author. Required boilerplate or sections are shown in BLUE and should not be omitted. Boilerplate shown in GREEN is included by choice.
+INFO (REMOVE): Update the Intended status in the header as needed.
+Status of this Memo
+INFO (REMOVE): Choose ONE of the following three paragraphs (highlighted in GREEN) and omit others (see BCP 78 for explanation):
+This Internet-Draft is submitted in full conformance with the provisions of BCP 78 and BCP 79. 
+This Internet-Draft is submitted in full conformance with the provisions of BCP 78 and BCP 79. This document may not be modified, and derivative works of it may not be created, and it may not be published except as an Internet-Draft.
+This Internet-Draft is submitted in full conformance with the provisions of BCP 78 and BCP 79. This document may not be modified, and derivative works of it may not be created, except to publish it as an RFC and to translate it into languages other than English.
+INFO (REMOVE): Leave in the following paragraph if this IETF Contribution contains pre-5378 Material as to which the IETF Trust has not been granted, or may not have been granted, the necessary permissions to allow modification of such pre-5378 Material outside the IETF Standards Process (see BCP 78 for explanation):
+This document may contain material from IETF Documents or IETF Contributions published or made publicly available before November 10, 2008. The person(s) controlling the copyright in some of this material may not have granted the IETF Trust the right to allow modifications of such material outside the IETF Standards Process.  Without obtaining an adequate license from the person(s) controlling the copyright in such materials, this document may not be modified outside the IETF Standards Process, and derivative works of it may not be created outside the IETF Standards Process, except to format it for publication as an RFC or to translate it into languages other than English.
+INFO (REMOVE): Leave the remaining paragraphs (through to the copyright notice) unmodified.
+Internet-Drafts are working documents of the Internet Engineering Task Force (IETF), its areas, and its working groups.  Note that other groups may also distribute working documents as Internet-Drafts.
+Internet-Drafts are draft documents valid for a maximum of six months and may be updated, replaced, or obsoleted by other documents at any time.  It is inappropriate to use Internet-Drafts as reference material or to cite them other than as "work in progress."
+The list of current Internet-Drafts can be accessed at http://www.ietf.org/ietf/1id-abstracts.txt
+The list of Internet-Draft Shadow Directories can be accessed at http://www.ietf.org/shadow.html
+This Internet-Draft will expire on Fail 27, 0000.
+Copyright Notice
+INFO (REMOVE): Leave the following paragraph unmodified.
+Copyright (c) 0000 IETF Trust and the persons identified as the document authors. All rights reserved.
+INFO (REMOVE): Choose ONE of the following two paragraphs and omit the other (see BCP 78 for explanation):
+This document is subject to BCP 78 and the IETF Trust’s Legal Provisions Relating to IETF Documents (http://trustee.ietf.org/license-info) in effect on the date of publication of this document. Please review these documents carefully, as they describe your rights and restrictions with respect to this document. Code Components extracted from this document must include Simplified BSD License text as described in Section 4.e of the Trust Legal Provisions and are provided without warranty as described in the Simplified BSD License.
+This document is subject to BCP 78 and the IETF Trust’s Legal Provisions Relating to IETF Documents (http://trustee.ietf.org/license-info) in effect on the date of publication of this document. Please review these documents carefully, as they describe your rights and restrictions with respect to this document. 
+Abstract
+<Type your abstract here. Typically 5-10 lines, never less than 3 lines nor more than 20 lines> 
+Table of Contents
+
+1. Introduction	4
+1.1. <Sub-section 1.1 heading as appropriate>	5
+2. Conventions used in this document	5
+3. <Section 2 heading as appropriate>	6
+3.1. <Sub-section 2.1 heading as appropriate>	6
+3.1.1. <Sub-section 2.1.1 heading as appropriate>	6
+3.1.2. <Sub-section 2.1.2 heading as appropriate>	6
+3.1.2.1. <2.1.2.1 (L4)>	6
+3.1.2.1.1. <(L5)>	6
+3.1.2.1.1.1. <(L6)>	6
+3.1.2.1.1.1.1. <(L7)>	6
+3.1.2.1.1.1.1.1. <(L8)>	6
+3.1.2.1.1.1.1.1.1. <(L9)>	6
+4. <Section 3 heading as appropriate>	6
+5. <Section 4 heading as appropriate>	6
+6. Formal Syntax	7
+7. Security Considerations	7
+8. IANA Considerations	7
+9. Conclusions	7
+10. References	7
+10.1. Normative References	7
+10.2. Informative References	8
+11. Acknowledgments	8
+Appendix A. <First Appendix>	9
+A.1. <First Header level>	9
+A.2. <Second Header level 1>	9
+A.2.1. <H2>	10
+A.2.1.1. <H3>	10
+A.2.1.1.1. <H4>	10
+A.2.1.1.1.1. <H5>	10
+
+1.  Introduction
+<This section is usually entitled “Introduction>
+<Unnumbered list:>
+o <item 1 and this one wraps to the next line, eventually, to show how subsequent lines are indented>
+o <item 2>
+o <item 3>
+<Numbered list:>
+1. <item 1>
+2. <item 2>
+3. <item 3>
+<Numbered list:>
+1. <item 1 - right click, modify bullets and numbering to "restart" numbering for the first paragraph of a new list, like this one>
+2. <item 2>
+3. <item 3>
+<And this is an ASCII figure:>
+<Draw me in the "RFC ASCII figure" style>
++------------------------------------------------+
+|                                                |
+|                                                |
+|                                                |
+|                                                |
+|                                                |
+|                                                |
+|                                                |
+|                                                |
+|                                                |
+|                                                |
+|                                                |
+|                                                |
+|                                                |
+|                                                |
+|                                                |
+|                                                |
+|                                                |
+|                                                |
+|                                                |
+|                                                |
+|                                                |
+|                                                |
+|                                                |
++------------------------------------------------+
+
+Figure 1 <Add a caption as here.>
+
+1.1.  <Sub-section 1.1 heading as appropriate>
+<Text for this section>
+2.  Conventions used in this document
+INFO (REMOVE): Include this section only if needed. Suggested wording.
+In examples, "C:" and "S:" indicate lines sent by the client and server respectively.
+The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119 [RFC2119]. 
+In this document, these words will appear with that interpretation   only when in ALL CAPS. Lower case uses of these words are not to be    interpreted as carrying significance described in RFC 2119.
+In this document, the characters ">>" preceding an indented line(s)   indicates a statement using the key words listed above. This convention aids reviewers in quickly identifying or finding the portions of this RFC covered by these keywords.
+3.  <Section 2 heading as appropriate>
+<Text for this section>
+3.1.  <Sub-section 2.1 heading as appropriate>
+<Text for this section>
+3.1.1.  <Sub-section 2.1.1 heading as appropriate>
+<Text for this section>
+3.1.2.  <Sub-section 2.1.2 heading as appropriate>
+<Text for this section>
+3.1.2.1.  <2.1.2.1 (L4)>
+<Text for this section>
+3.1.2.1.1.  <(L5)>
+<Text for this section>
+3.1.2.1.1.1.  <(L6)>
+<Text for this section>
+3.1.2.1.1.1.1.  <(L7)>
+<Text for this section>
+3.1.2.1.1.1.1.1.  <(L8)>
+<Text for this section>
+3.1.2.1.1.1.1.1.1.  <(L9)>
+<Text for this section>
+4.  <Section 3 heading as appropriate>
+<Text for this section>
+5.  <Section 4 heading as appropriate>
+<Text for this section>
+6.  Formal Syntax
+INFO (REMOVE): Include this section only if needed. Commonly used grammar is BNF grammar defined in RFC-2234.  Suggested wording.
+The following syntax specification uses the augmented Backus-Naur Form (BNF) as described in RFC-2234 [RFC2234].
+<Define your formal syntax here.>
+7.  Security Considerations
+INFO (REMOVE): 	Every draft MUST have a Security Considerations section.
+<Add any security considerations>
+8.  IANA Considerations
+INFO (REMOVE): 	Every draft MUST have an IANA Considerations section, although it may be removed prior to publication by the RFC Editor if null.
+<Add any IANA considerations>
+9.  Conclusions
+<Add any conclusions>
+10.  References
+INFO (REMOVE): Authors can use either the auto-numbered references OR the named references; typically, these would not be mixed in a single document. This template includes both examples for illustration of the two variations. Named references are preferred (e.g., [RFC2119] or [Fab1999].
+10.1.  Normative References
+INFO (REMOVE): Normative refs are references to standards documents **required** to understand this doc. These are usually Standards-track and BCP RFCs, or external (IEEE, ANSI, etc.) standards, but may include other publications.
+[1] Bradner, S., "Key words for use in RFCs to Indicate Requirement Levels", BCP 14, RFC 2119, March 1997.
+[2] Crocker, D. and Overell, P.(Editors), "Augmented BNF for Syntax Specifications: ABNF", RFC 2234, Internet Mail Consortium and Demon Internet Ltd., November 1997.
+[RFC2119]	Bradner, S., "Key words for use in RFCs to Indicate Requirement Levels", BCP 14, RFC 2119, March 1997.
+[RFC2234]	Crocker, D. and Overell, P.(Editors), "Augmented BNF for Syntax Specifications: ABNF", RFC 2234, Internet Mail Consortium and Demon Internet Ltd., November 1997.
+10.2.  Informative References
+INFO (REMOVE):  Informative refs are those that are not standards or standards not required to understand this doc. These are usually informative RFCs, internet-drafts (avoid if possible), and other external documents.
+[3] Faber, T., Touch, J. and W. Yue, "The TIME-WAIT state in TCP and Its Effect on Busy Servers", Proc. Infocom 1999 pp. 1573-1583.
+[Fab1999]	Faber, T., Touch, J. and W. Yue, "The TIME-WAIT state in TCP and Its Effect on Busy Servers", Proc. Infocom 1999 pp. 1573-1583.
+11.  Acknowledgments
+<Add any acknowledgements>
+INFO (REMOVE): The author of this template would appreciate if you would keep the following line in your final IDs and RFCs:
+This document was prepared using 2-Word-v2.0.template.dot.
+Appendix A. <First Appendix>
+INFO (REMOVE): Starts on a new page. These are optional.
+INFO (REMOVE): Careful with headers in appendices - they won't renumber when moved in/out levels in outline mode. Only Headers 1-9 do that trick, as used in the body of the RFC!
+A.1.  <First Header level>
+<Text>
+A.2.  <Second Header level 1>
+INFO (REMOVE): The following ‘abbreviated statement’ or the subsequent ‘full statement’ are required if the document contains any code (see BCP 78 for further information). The first is an ‘abbreviated statement’:
+Copyright (c) 0000 IETF Trust and the persons identified as authors of the code. All rights reserved.
+Redistribution and use in source and binary forms, with or without modification, is permitted pursuant to, and subject to the license terms contained in, the Simplified BSD License set forth in Section 4.c of the IETF Trust’s Legal Provisions Relating to IETF Documents (http://trustee.ietf.org/license-info).
+INFO (REMOVE): or use this ‘full statement’ (through the remainder of this subsection):
+Copyright (c) 0000 IETF Trust and the persons identified as authors of the code. All rights reserved.
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+o Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 
+o Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 
+o Neither the name of Internet Society, IETF or IETF Trust, nor the names of specific contributors, may be used to endorse or promote products derived from this software without specific prior written permission.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+A.2.1.  <H2>
+<Text>
+A.2.1.1.  <H3>
+<Text>
+A.2.1.1.1.  <H4>
+<Text>
+A.2.1.1.1.1.  <H5>
+<Text>
+
+Authors’ Addresses
+<Firstname> <Lastname>
+<Affiliation>
+<Address>
+	
+Phone: <optional>
+Email: <Your email address>
+
+<Firstname> <Lastname>
+<Affiliation>
+<Address>
+	
+Phone: <optional>
+Email: <Your email address>
+
+
+
+Internet-Draft	<Title> 	XXX 0000
+
+
+
+
+
+
+<Lastname>	Expires Fail 0, 0000	[Page 6]
+
+
+
+
+Computer Networking II		S. Safineh
+Internet Draft		Tampere University
+Intended status: RFC Assignment		XXX 0, 0000
+Expires: Fail 0000
+	
+
+
+
+
+
+<Lastname>	Expires Fail 0, 0000	[Page 1]
+
+
